@@ -8,8 +8,6 @@ const getTotalBalanceByGender = (clients, gender) =>{
     
 }
 
-
-
 const clients = [
 	{
     name: "Moore Hensley",
